@@ -1,3 +1,3 @@
 <?php
-echo"Este es el menu de navegacion";
+echo"Este es el menu de navegacion v2";
 ?>

@@ -1,3 +1,3 @@
 <?php
-echo"Esto es el login";
+echo"Esto es el login v2";
 ?>
